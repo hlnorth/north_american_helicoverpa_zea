@@ -18,7 +18,7 @@ To look at the relationship between genetic differentiation and geographic dista
 
 ## SweepFinder composite likelihood ratio data
 
-The complete dataset of likelihood ratios (LR) generated using [SweepFinder2](https://academic.oup.com/bioinformatics/article/32/12/1895/1743549?login=true) is stored in [SweepFinder_CLR.Rdata](https://github.com/hlnorth/north_american_helicoverpa_zea/blob/main/SweepFinder_CLR.Rdata). [SweepFinder_CLR_plot.R] (https://github.com/hlnorth/north_american_helicoverpa_zea/blob/main/SweepFinder_CLR_plot.R) plots these results, highlighting outlier regions. It does so using ggplot2 and dplyr for simplicity, though the data can of course be explored in base R. 
+The complete dataset of likelihood ratios (LR) generated using [SweepFinder2](https://academic.oup.com/bioinformatics/article/32/12/1895/1743549?login=true) is stored in [SweepFinder_CLR.Rdata](https://github.com/hlnorth/north_american_helicoverpa_zea/blob/main/SweepFinder_CLR.Rdata). [SweepFinder_CLR_plot.R](https://github.com/hlnorth/north_american_helicoverpa_zea/blob/main/SweepFinder_CLR_plot.R) plots these results, highlighting outlier regions. It does so using ggplot2 and dplyr for simplicity, though the data can of course be explored in base R. 
 
 ## Simple model of selection at one locus
 
