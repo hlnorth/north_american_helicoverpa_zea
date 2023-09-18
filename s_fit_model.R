@@ -72,15 +72,15 @@ for (s in s_set) { # for a random value of s
     
     if (t==2002) {
       D_2002 = abs(q-q2002)
-      segments(t,q,t,q2002, lwd=2, col=alpha("red", 0.5))
+      segments(t,q,t,q2002, lwd=2, col='red')
     }
     
     if (t==2017) {
       D_2017 = abs(q-q2017)
-      segments(t,q,t,q2017, lwd=2, col=alpha("red", 0.5))
+      segments(t,q,t,q2017, lwd=2, col='red')
     }
     
-    points(t,q, pch=19, type="p", col=alpha("lightblue", 0.75))
+    points(t,q, pch=19, type="p", col='lightblue')
     
   }
   
