@@ -7,10 +7,6 @@ load('./fd_admixedJA.RData')
 admixed_JA_c15 <- subset(admixed_JA, 
                          admixed_JA$chr==15)
 
-
-save(admixed_JA, 
-     file='/Users/henrylnorth/Dropbox/papers/2021_02_northAmericanZea_GSword/draft3/Github_files/fd_admixedJA.RData')
-
 # The midpoint of the CYP337B3 annotation in Mbp
 CYP337B3_midpoint_Mbp <- ((11436565+11440168)/2)/1000000
 
@@ -25,6 +21,3 @@ abline(v=CYP337B3_midpoint_Mbp,
        lty=2,
        lwd=3,
        col=alpha('orange',0.75))
-
-
-
