@@ -9,8 +9,8 @@ I use a simple model of single-locus selection. Using the model, I retrodict all
 
 [s_fit_model.R](https://github.com/hlnorth/north_american_helicoverpa_zea/blob/main/s_fit_model.R) demonstrates the model and the method I used to fit the model to observed data. This toy example will produce a plot of the most recent iteration:
 
-`#ADD8E6` Light blue points are the retrodicted allele frequencies under the selection coefficient, dominance coefficient and generation time for that iteration.
-`#0000FF` Dark blue points are the observed allele frequencies. 
-`#FF0000` Red lines indicate the error score. 
+Light blue points are the retrodicted allele frequencies under the selection coefficient, dominance coefficient and generation time for that iteration.
+Dark blue points are the observed allele frequencies. 
+Red lines indicate the error score. 
 
 This script can be adjusted to identify combinations of the selection coefficient, dominance coefficient and generation time parameters that best fit observed data. Note that this is a very simple model; I simply use it to show that my estimate of the seleciton coefficient could reasonably explain independently estimated allele frequencies.
