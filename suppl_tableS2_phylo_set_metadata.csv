@@ -1,0 +1,353 @@
+individual,species,admixed,sample_rgion,sample_label_CYP337B3_geneTree,Source_lead_author,source_DOI_html,fullset_SNPs_filtered.vcf.gz
+BRA2,armigera_admixed,Y,south_america,H. armigera (Brazil),Anderson,https://doi.org/10.1073/pnas.1718831115,Y
+BRA4,armigera_admixed,Y,south_america,H. armigera (Brazil),Anderson,https://doi.org/10.1073/pnas.1718831115,Y
+ID_110,armigera_admixed,Y,south_america,H. armigera (Brazil),Anderson,https://doi.org/10.1073/pnas.1718831115,Y
+ID_125,armigera_admixed,Y,south_america,H. armigera (Brazil),Anderson,https://doi.org/10.1073/pnas.1718831116,Y
+ID_131,armigera_admixed,Y,south_america,H. armigera (Brazil),Anderson,https://doi.org/10.1073/pnas.1718831117,Y
+ID_142,armigera_admixed,Y,south_america,H. armigera (Brazil),Anderson,https://doi.org/10.1073/pnas.1718831118,Y
+ID_144,armigera_admixed,Y,south_america,H. armigera (Brazil),Anderson,https://doi.org/10.1073/pnas.1718831119,Y
+M0087,punctigeractigera,N,oceanea,H. punctigera,Anderson,https://doi.org/10.1073/pnas.1718831119,Y
+M0264,punctigeractigera,N,oceanea,H. punctigera,Anderson,https://doi.org/10.1073/pnas.1718831119,Y
+TMG4,armigera,N,south_america,H. armigera (Brazil),Anderson,https://doi.org/10.1073/pnas.1718831119,Y
+TPG2,armigera,N,south_america,H. armigera (Brazil),Anderson,https://doi.org/10.1073/pnas.1718831119,Y
+ID_343,assulta,N,oceanea,NA,Anderson,https://doi.org/10.1073/pnas.1718831127,Y
+YC3,assulta,N,east_asia,NA,Anderson,https://doi.org/10.1073/pnas.1718831128,Y
+ARG1,gelotopoeon,N,south_america,NA,Anderson,https://doi.org/10.1073/pnas.1718831129,Y
+ARG2,gelotopoeon,N,south_america,NA,Anderson,https://doi.org/10.1073/pnas.1718831130,Y
+ARG3,gelotopoeon,N,south_america,NA,Anderson,https://doi.org/10.1073/pnas.1718831131,Y
+ARG4,gelotopoeon,N,south_america,NA,Anderson,https://doi.org/10.1073/pnas.1718831132,Y
+M0236,punctigera,N,oceanea,NA,Anderson,https://doi.org/10.1073/pnas.1718831134,Y
+M0239,punctigera,N,oceanea,NA,Anderson,https://doi.org/10.1073/pnas.1718831135,Y
+M0244,punctigera,N,oceanea,NA,Anderson,https://doi.org/10.1073/pnas.1718831136,Y
+M0245,punctigera,N,oceanea,NA,Anderson,https://doi.org/10.1073/pnas.1718831137,Y
+M0263,punctigera,N,oceanea,NA,Anderson,https://doi.org/10.1073/pnas.1718831138,Y
+ID_70,zea,N,south_america,NA,Anderson,https://doi.org/10.1073/pnas.1718831140,Y
+ID_73,zea,N,south_america,NA,Anderson,https://doi.org/10.1073/pnas.1718831140,Y
+ID_132,zea,N,south_america,NA,Anderson,https://doi.org/10.1073/pnas.1718831141,Y
+ID_133,zea,N,south_america,NA,Anderson,https://doi.org/10.1073/pnas.1718831142,Y
+ID_134,zea,N,south_america,NA,Anderson,https://doi.org/10.1073/pnas.1718831143,Y
+HZRL10,unverifiable,unverified,unverifiable,NA,Anderson,https://doi.org/10.1073/pnas.1718831144,Y
+HZRL12,unverifiable,unverified,unverifiable,NA,Anderson,https://doi.org/10.1073/pnas.1718831145,Y
+HZRL17,unverifiable,unverified,unverifiable,NA,Anderson,https://doi.org/10.1073/pnas.1718831146,Y
+HZRL20,unverifiable,unverified,unverifiable,NA,Anderson,https://doi.org/10.1073/pnas.1718831147,Y
+ID_7,armigera,N,east_asia,NA,Anderson,https://doi.org/10.1073/pnas.1718831148,Y
+ID_ID_8,armigera,N,east_asia,NA,Anderson,https://doi.org/10.1073/pnas.1718831149,Y
+ID_ID_10,armigera,N,east_asia,NA,Anderson,https://doi.org/10.1073/pnas.1718831150,Y
+ID_ID_12,armigera,N,east_asia,NA,Anderson,https://doi.org/10.1073/pnas.1718831151,Y
+FFM1_3,armigera,N,europe,NA,Anderson,https://doi.org/10.1073/pnas.1718831152,Y
+ID_738,armigera,N,south_asia,NA,Anderson,https://doi.org/10.1073/pnas.1718831155,Y
+I3,armigera,N,south_asia,NA,Anderson,https://doi.org/10.1073/pnas.1718831156,Y
+ICY5L,armigera,N,south_asia,NA,Anderson,https://doi.org/10.1073/pnas.1718831157,Y
+MAD13,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831158,Y
+MAD20,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831159,Y
+MAD3,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831160,Y
+MAD5,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831161,Y
+NZ24,armigera,N,oceanea,NA,Anderson,https://doi.org/10.1073/pnas.1718831162,Y
+NZ27,armigera,N,oceanea,NA,Anderson,https://doi.org/10.1073/pnas.1718831163,Y
+NZ29,armigera,N,oceanea,NA,Anderson,https://doi.org/10.1073/pnas.1718831164,Y
+SEN2,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831165,Y
+SEN6,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831166,Y
+SEN8,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831167,Y
+S_5,armigera,N,europe,NA,Anderson,https://doi.org/10.1073/pnas.1718831168,Y
+UG32L,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831169,Y
+UG37L,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831170,Y
+UG38L,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831171,Y
+UG39L,armigera,N,africa,NA,Anderson,https://doi.org/10.1073/pnas.1718831172,Y
+SRR15350535,zea_2002,N,north_america,H. zea 2002,Taylor,https://doi.org/10.1073/pnas.2020853118,Y
+SRR15350536,zea_2002,N,north_america,H. zea 2002,Taylor,https://doi.org/10.1073/pnas.2020853118,Y
+SRR15350538,zea_2002,N,north_america,H. zea 2002,Taylor,https://doi.org/10.1073/pnas.2020853118,Y
+SRR15350544,zea_2002,N,north_america,H. zea 2002,Taylor,https://doi.org/10.1073/pnas.2020853118,Y
+SRR15350534,zea_2002,N,LA_2002,NA,Taylor,https://doi.org/10.1073/pnas.2020853118,Y
+SRR15350537,zea_2002,N,LA_2002,NA,Taylor,https://doi.org/10.1073/pnas.2020853121,Y
+SRR15350539,zea_2002,N,LA_2002,NA,Taylor,https://doi.org/10.1073/pnas.2020853123,Y
+SRR15350540,zea_2002,N,LA_2002,NA,Taylor,https://doi.org/10.1073/pnas.2020853124,Y
+SRR15350541,zea_2002,N,LA_2002,NA,Taylor,https://doi.org/10.1073/pnas.2020853125,Y
+SRR15350542,zea_2002,N,LA_2002,NA,Taylor,https://doi.org/10.1073/pnas.2020853126,Y
+SRR15350543,zea_2002,N,LA_2002,NA,Taylor,https://doi.org/10.1073/pnas.2020853127,Y
+SRR15350545,zea_2002,N,LA_2002,NA,Taylor,https://doi.org/10.1073/pnas.2020853129,Y
+SRR15350546,zea_2002,N,LA_2002,NA,Taylor,https://doi.org/10.1073/pnas.2020853130,Y
+Ja_12,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_13,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_14,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_15,zea_JA_admixed,Y,JA_admixed_2019,admixed (Jackson CO. TX),this paper,NA,Y
+Ja_16,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_17,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_18,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_1,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_23,zea_JA_admixed,Y,JA_admixed_2019,admixed (Jackson CO. TX),this paper,NA,Y
+Ja_24,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_27,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_36,zea_JA,N,JA_2019,H. zea 2019,this paper,NA,Y
+Ja_39,zea_JA,N,JA_2019,H. zea 2019,this paper,NA,Y
+Ja_4,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_5,zea_JA,N,JA_2019,NA,this paper,NA,Y
+Ja_9,zea_JA,N,JA_2019,NA,this paper,NA,Y
+LA_10,zea_JA,N,JA_2019,NA,this paper,NA,Y
+LA_11,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_12,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_13,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_14,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_15,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_16,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_17,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_18,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_19,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_1,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_20,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_21,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_22,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_23,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_24,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_26,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_2,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_4,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_5,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_6,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_7,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_8,zea_LA,N,LA_2019,NA,this paper,NA,Y
+LA_9,zea_LA,N,LA_2019,NA,this paper,NA,Y
+MA_10,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_11,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_12,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_13,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_14,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_15,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_16,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_17,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_18,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_19,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_1,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_20,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_21,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_22,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_23,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_24,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_25,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_27,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_29,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_2,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_3,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_5,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_6,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_7,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_8,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MA_9,zea_MA,N,MA_2019,NA,this paper,NA,Y
+MO_009_10,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_11,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_12,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_13,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_14,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_15,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_16,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_17,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_18,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_19,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_1,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_20,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_21,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_22,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_23,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_24,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_25,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_26,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_27,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_28,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_29,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_2,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_30,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_31,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_32,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_33,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_3,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_4,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_5,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_6,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_7,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_8,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO_009_9,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO-009_T1,zea_MO,N,MO_2019,NA,this paper,NA,Y
+MO-009_T2,zea_MO,N,MO_2019,NA,this paper,NA,Y
+NA_10,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_11,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_12,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_14,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_16,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_18,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_19,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_21,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_22,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_23,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_24,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_25,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_26,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_27,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_28,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_2,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_30,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_32,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_33,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_3,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_4,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_6,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_7,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NA_9,zea_NA,N,NA_2019,NA,this paper,NA,Y
+NC_10,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_11,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_12,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_13,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_14,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_15,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_16,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_17,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_18,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_19,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_1,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_20,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_21,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_22,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_23,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_24,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_25,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_26,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_27,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_29,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_2,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_30,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_31,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_32,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_3,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_4,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_5,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_6,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_7,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_8,zea_NC,N,NC_2019,NA,this paper,NA,Y
+NC_9,zea_NC,N,NC_2019,NA,this paper,NA,Y
+Thrall_10,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_11,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_12,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_13,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_14,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_16,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_17,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_18,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_22,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_25,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_26,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_2,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_30,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_32,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_33,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_36,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_3,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_4,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_5,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_6,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_8,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Thrall_9,zea_Thrall,N,Thrall_2019,NA,this paper,NA,Y
+Tillard_11,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_12,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_14,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_15,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_1,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_20,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_24,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_25,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_26,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_29,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_2,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_31H,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_32H,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_33H,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_34H,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_3,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_4,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+Tillard_5,zea_Tillard,N,Tillard_2019,NA,this paper,NA,Y
+WA_10,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_11,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_12,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_13,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_15,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_16,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_17,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_18,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_19,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_1,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_20,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_21,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_22,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_2,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_3,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_4,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_5,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_6,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_7,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_8,zea_WA,N,WA_2019,NA,this paper,NA,Y
+WA_9,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_10,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_11,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_12,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_13,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_14,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_15,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_17,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_19,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_1,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_20,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_22,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_24,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_26,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_3,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_4,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_5,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_6,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_7,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_8,zea_WB,N,WB_2019,NA,this paper,NA,Y
+WB_9,zea_WB,N,WB_2019,NA,this paper,NA,Y
+BW0030,armigera,N,south_asia,H. armigera (South Asia),Jin,https://doi.org/10.1016/j.xinn.2023.100454,N
+FR0001,armigera,N,europe,H. armigera (Europe),Jin,https://doi.org/10.1016/j.xinn.2023.100454,N
+FR0002,armigera,N,europe,H. armigera (Europe),Jin,https://doi.org/10.1016/j.xinn.2023.100454,N
+IC0012,armigera,N,south_asia,H. armigera (South Asia),Jin,https://doi.org/10.1016/j.xinn.2023.100454,N
+KEL2,armigera,N,Xinjiang,H. armigera (Xinjiang),Jin,https://doi.org/10.1016/j.xinn.2023.100454,N
+KEL41,armigera,N,Xinjiang,H. armigera (Xinjiang),Jin,https://doi.org/10.1016/j.xinn.2023.100454,N
+QL1797,armigera,N,oceanea,H. armigera (Oceania),Jin,https://doi.org/10.1016/j.xinn.2023.100454,N
+SA0001,armigera,N,africa,H. armigera (Africa),Jin,https://doi.org/10.1016/j.xinn.2023.100454,N
+SN0045,armigera,N,africa,H. armigera (Africa),Jin,https://doi.org/10.1016/j.xinn.2023.100454,N
+WA0002,armigera,N,oceanea,H. armigera (Oceania),Jin,https://doi.org/10.1016/j.xinn.2023.100454,N
+SRR15526515,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853131,N
+SRR15526516,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853132,N
+SRR15526517,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853133,N
+SRR15526518,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853134,N
+SRR15526519,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853135,N
+SRR15526520,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853136,N
+SRR15526521,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853137,N
+SRR15526522,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853138,N
+SRR15526523,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853139,N
+SRR15526524,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853140,N
+SRR15526525,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853141,N
+SRR15526526,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853142,N
+SRR15526527,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853143,N
+SRR15526528,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853144,N
+SRR15526529,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853145,N
+SRR15526530,zea_2017_MD,N,MD_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853146,N
+SRR15465881,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853147,N
+SRR15465882,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853148,N
+SRR15465883,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853149,N
+SRR15465884,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853150,N
+SRR15465885,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853151,N
+SRR15465886,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853152,N
+SRR15465887,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853153,N
+SRR15465888,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853154,N
+SRR15465889,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853155,N
+SRR15465890,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853156,N
+SRR15465891,zea_2017_LA,N,LA_2017,NA,Taylor,https://doi.org/10.1073/pnas.2020853157,N
+SRR15351348,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853158,N
+SRR15351349,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853159,N
+SRR15351350,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853160,N
+SRR15351351,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853161,N
+SRR15351352,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853162,N
+SRR15351353,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853163,N
+SRR15351354,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853164,N
+SRR15351355,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853165,N
+SRR15351356,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853166,N
+SRR15351357,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853167,N
+SRR15351358,zea_2012_LA,N,LA_2012,NA,Taylor,https://doi.org/10.1073/pnas.2020853168,N
