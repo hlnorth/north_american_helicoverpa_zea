@@ -1,0 +1,4 @@
+sample_grouping	all_samples	texas	missouri	north_carolina	arkansas_louisiana
+individual_sample_size	235	107	35	31	62
+percentage_individuals_genotyped	87.23404	84.11215	94.28571	87.09677	88.70968
+allele_frequency	0.9560976	0.9277778	0.969697	1	0.9727273
